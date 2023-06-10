@@ -1,0 +1,50 @@
+* {
+    margin: 3px;
+    padding: 3px;
+    font-family: serif;
+    font-size: medium;
+    font-weight: 500;
+}
+
+body {
+    margin: 5px;
+    padding: 5px;
+}
+
+#main {
+    margin: 5px;
+    max-width: 800;
+    padding: auto;
+}
+
+h1 {
+   text-align: center;
+   font-size: 30px;
+   justify-content: space-evenly;
+}
+
+img {
+   display: block;
+   margin: 0 auto;  
+   width: 30%;
+   height: 100vh;   
+}
+
+h2 {
+    font-size: 30px;
+    justify-content: flex-start;
+    margin: 5px;
+    color:rgb(144, 10, 154);
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    justify-content: center;
+}
+
+footer{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+}
